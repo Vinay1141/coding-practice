@@ -1,0 +1,7 @@
+To run c++ program:
+g++ prac.cpp -o prac.exe
+
+.\prac.exe < input.txt > output.txt
+
+To run py program:
+python prac.py < input.txt > output.txt
